@@ -1,5 +1,0 @@
-
-Name: Mayank Kumar Jha
-Skills: HTML, CSS, JS, ReactJs
-Email: mayankjha1709@gmail.com
-
